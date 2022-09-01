@@ -1,0 +1,18 @@
+*** List of resources used while developing this project's solution ***
+
+String to IP conversion: https://docs.microsoft.com/en-us/windows/win32/api/winsock2/nf-winsock2-inet_addr
+DNS Lookup Function (to determine query type): CSCE 463 website sample code "threads/winsock" -> "winsock.cpp"
+DNS Query Types & Classes, Flags & Header definitions, and High-Level Operation of DNS Questions (skeleton code): HW2 PDF, CSCE 463 Lecture slides from 2/22/22, and http://www.networksorcery.com/enp/protocol/dns.htm
+Generate random integer:											   https://www.cplusplus.com/reference/cstdlib/rand/
+Split char array by delimiter:										   https://www.geeksforgeeks.org/how-to-split-a-string-in-cc-python-and-java/
+Store char arrays in a vector C++:									   https://stackoverflow.com/questions/2392308/c-vector-of-char-array
+C++ vectors:														   https://www.cplusplus.com/reference/vector/vector/vector/
+Sockets (initialize winsock ,create a new socket, bind, sendto, recv): https://docs.microsoft.com/en-us/windows/win32/winsock/initializing-winsock
+																	   https://docs.microsoft.com/en-us/windows/win32/winsock/creating-a-socket-for-the-client
+																	   HW2 PDF
+Memory deallocation using delete function:							   https://en.cppreference.com/w/cpp/memory/new/operator_delete
+Calculating time taken by a function or process in C/C++:			   https://www.geeksforgeeks.org/how-to-measure-time-taken-by-a-program-in-c/
+Response header: HW2 PDF - also used "memory" window in VS debugger and Wireshark to analyze the response data & help me better understand it
+"Extract" the last X bits of an unsigned value in C: https://stackoverflow.com/questions/8011700/how-do-i-extract-specific-n-bits-of-a-32-bit-unsigned-integer-in-c
+Parser and "jump" code implementation based on sample code found here: https://www.binarytides.com/dns-query-code-in-c-with-winsock
+Report info - Understanding the packets being sent/received by using Wireshark: https://cabulous.medium.com/dns-message-how-to-read-query-and-response-message-cfebcb4fe817
