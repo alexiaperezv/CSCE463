@@ -1,5 +1,9 @@
-# CSCE463
-Homework Projects Completed in CSCE 463 in the Spring of 2022 with Dr. Loguinov
-## Important Note:
-If you are currently taking Dr. Loguinov's class, DO NOT copy my code. He WILL catch you and you WILL fail. Remember, "Aggies do not lie, cheat, steal, or tolerate those who do."
-If you must take any of my code, please make sure to include the link to this repo and specify which file you took the code from in your submission to avoid plagiarism issues.
+# csce463
+CSCE 463 Homework Assignments, Spring 2022
+- Homework 1: "Web Crawler" --- Not Included 
+- Homework 2: "DNS Client" --- Final Submission, 71% of requirements met
+- Homework 3: "UDP Transport-Layer Service" --- Part 1 Submission
+- Homework 4: "TBD" (Extra Credit) --- Traceroute (report statistics & extra credit not included)
+
+** Note: If you are currently taking this class, do not copy any of my code.
+Dr. Loguinov is very strict about the Aggie Honor Code and you WILL get caught and WILL receive a 0. **
